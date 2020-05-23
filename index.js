@@ -1,3 +1,3 @@
-console.warn();
 console.error();
+console.warn();
 console.log();
